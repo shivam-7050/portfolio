@@ -58,7 +58,7 @@ Welcome to my GitHub portfolio! This repository showcases a diverse range of pro
 - **Domains**: E-commerce, healthcare, disaster management, music analytics
 
 ## Contact
-- **Email**: your.email@example.com
+- **Email**: shivamkverma70@gmail.com
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com)
 
 Feel free to explore these projects, and reach out if you have any questions or would like to collaborate!
