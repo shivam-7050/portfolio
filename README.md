@@ -1,4 +1,4 @@
-# README - Data Science and Machine Learning Portfolio
+#Data Science and Machine Learning Portfolio
 
 Welcome to my GitHub portfolio! This repository showcases various data science and machine learning projects I've worked on. Each project includes detailed analysis, code, and insights derived from real-world datasets. Below is an overview of the key projects and the skills, techniques, and tools I applied.
 
