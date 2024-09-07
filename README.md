@@ -59,6 +59,6 @@ Welcome to my GitHub portfolio! This repository showcases a diverse range of pro
 
 ## Contact
 - **Email**: shivamkverma70@gmail.com
-- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/-shivam-verma)
+- **LinkedIn**: [Your LinkedIn]([www.linkedin.com/in/-shivam-verma](https://www.linkedin.com/in/-shivam-verma/))
 
 Feel free to explore these projects, and reach out if you have any questions or would like to collaborate!
